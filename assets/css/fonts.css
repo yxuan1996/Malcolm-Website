@@ -1,0 +1,6 @@
+@font-face { font-family: SourceSansPro; src: url('assets/fonts/SourceSansPro-Black.ttf'); } 
+.sourcesanspro { font-family: SourceSansPro, sans-serif; font-size: 1.8em; }
+
+@font-face { font-family: JosefinSans; src: url('assets/fonts/JosefinSans/JosefinSans-Regular.ttf'); }  
+@font-face { font-family: JosefinSans; font-weight: bold; src: url('assets/fonts/JosefinSans/JosefinSans-Bold.ttf');} 
+
